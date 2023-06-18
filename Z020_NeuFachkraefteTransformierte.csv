@@ -1,0 +1,27 @@
+﻿Berichtsjahr;Region;BerufSchluessel;Berufsgruppe;Anforderungsniveau;HilfsvariableGewichtung;AnzGesamtbeschaeftigteProBerufsgruppe ;AnzArbeitsloseMittel;AnzGemeldetArbeitsstellenMittel;ArbeitslosenStellenRelation;AnzTageVakanzzeitMittel;AnzBeschaeftigteUnter25ProBerufsgruppe ;AnzArbeitsloseUnter25JahreMittel;AnzBeschaeftigte25bis54ProBerufsgruppe ;AnzArbeitslose25bis54JahreMittel ;AnzBeschaeftigteAelter55ProBerufsgruppe ;AnzArbeitsloseAelter55 JahreMittel
+2021;Deutschland;431;Informatik;Fachkräfte;1;277882;3596;2233;161;124;42850;430;195614;2980;138354;187
+2021;BadenWuerttemberg;431;Informatik;Fachkräfte;0,1335;37097;389;303;128;133;5720;52;26114;318;18470;19
+2021;RheinlandPfalz;431;Informatik;Experten;0,0493;13700;105;293;36;98;2113;2;9644;87;6821;17
+2021;NordrheinWestfalen;431;Informatik;Fachkräfte;0,2156;59911;1238;550;225;115;9238;132;42174;1021;29829;85
+2021;Niedersachsen;431;Informatik;Fachkräfte;0,0962;26732;481;323;149;119;4122;63;18818;383;13310;35
+2021;Deutschland;2630;Elektrotechnik;Helfer;1;256085;14263;1204;1184;122;21899;1688;172874;10173;61312;2403
+2021;BadenWuerttemberg;2630;Elektrotechnik;Helfer;0,1335;37097;1588;159;1000;101;2924;139;23079;1094;8185;354
+2021;RheinlandPfalz;2630;Elektrotechnik;Helfer;0,0493;13700;544;74;736;162;1080;93;8523;371;3023;80
+2021;NordrheinWestfalen;2630;Elektrotechnik;Helfer;0,2156;59911;4133;298;1390;118;4721;451;37272;3043;13219;639
+2021;Niedersachsen;2630;Elektrotechnik;Helfer;0,0962;26732;1232;99;1248;141;2107;158;16630;879;5898;195
+2021;Deutschland;713;UnternehmensorganisationUStrategie;Fachkräfte;1;1749113;6540;1762;371;73;122607;833;1260485;4157;366021;1550
+2021;BadenWuerttemberg;713;UnternehmensorganisationUStrategie;Fachkräfte;0,1335;233507;1112;338;328;75;16368;150;168275;658;48864;303
+2021;RheinlandPfalz;713;UnternehmensorganisationUStrategie;Fachkräfte;0,0493;86231;328;96;341;79;6045;42;62142;211;18045;75
+2021;NordrheinWestfalen;713;UnternehmensorganisationUStrategie;Fachkräfte;0,2156;377109;2148;383;561;67;26434;217;271761;1398;78914;533
+2021;Niedersachsen;713;UnternehmensorganisationUStrategie;Fachkräfte;0,0962;168265;526;178;295;75;11795;79;121259;326;35211;121
+2021;Deutschland;6210;Verkauf;Helfer;1;1024726;146436;2675;5475;123;156496;31527;663906;98409;204324;16500
+2021;BadenWürttemberg;6210;Verkauf;Helfer;0,1335;136801;11063;501;2209;107;20892;2165;88631;7651;27277;1248
+2021;RheinlandPfalz;6210;Verkauf;Helfer;0,0493;50519;6198;182;3408;146;7715;1364;32731;4158;10073;674
+2021;NordrheinWestfalen;6210;Verkauf;Helfer;0,2156;220931;42540;574;7407;146;33741;8113;143138;30036;44052;4392
+2021;Niedersachsen;6210;Verkauf;Helfer;0,0962;98579;14278;147;9763;125;15055;3343;63868;9432;19656;1503
+2021;Deutschland;8210; Altenpflege;Helfer;1;615428;31864;5636;565;153;72762;4523;409226;23486;133440;3855
+2021;BadenWuerttemberg;8210; Altenpflege;Helfer;0,1335;82160;2424;460;527;144;9714;293;54632;1760;17814;371
+2021;RheinlandPfalz;8210; Altenpflege;Helfer;0,0493;30341;1396;302;462;182;3587;245;20175;995;6579;156
+2021;NordrheinWestfalen;8210; Altenpflege;Helfer;0,2156;132686;8775;998;879;162;15687;1238;88229;6566;28770;971
+2021;Niedersachsen;8210; Altenpflege;Helfer;0,0962;59204;3139;676;464;151;7000;433;39368;2363;12837;344
+
